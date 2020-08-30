@@ -7,11 +7,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on internet.
-- 🌱 I’m currently learning internet.
+- 🌱 I’m currently learning on internet.
 - 👯 I’m looking to collaborate on internet.
 - 🤔 I’m looking for help with internet.
+<!--
 - 💬 Ask me about internet.
 - 📫 How to reach me: internet.
 - 😄 Pronouns: internet.
-- ⚡ Fun fact: internet.
+-->
+- ⚡ Fun fact: I Know Nothing..
 
